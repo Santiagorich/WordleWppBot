@@ -1,4 +1,4 @@
-# wordle
+# WordleWppBot
 
 Wordle bot for whatsapp
 
